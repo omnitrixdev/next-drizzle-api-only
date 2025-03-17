@@ -10,7 +10,7 @@
     "seed": "pnpm tsx src/db/index.ts"
   },
   "dependencies": {
-    "@libsql/client": "^0.14.0",
+    "@libsql/client": "^0.15.0",
     "better-sqlite3": "^11.8.1",
     "dotenv": "^16.4.7",
     "drizzle-orm": "^0.40.0",
